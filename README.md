@@ -7,5 +7,5 @@
 ## To do
 
 * [X] discononary attack
-* [] Custom discononary
-* [] Real brute force (no discononary)
+* [ ] Custom discononary
+* [ ] Real brute force (no discononary)
