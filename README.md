@@ -2,10 +2,10 @@
 
 ## features
 
-- discononary attack
+- Dictionary attack
 
 ## To do
 
-* [X] discononary attack
-* [ ] Custom discononary
-* [ ] Real brute force (no discononary)
+* [X] Dictionary attack
+* [ ] Custom dictionary
+* [ ] Real brute force (no dictionary)
